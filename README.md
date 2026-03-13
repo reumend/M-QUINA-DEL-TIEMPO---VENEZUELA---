@@ -332,8 +332,8 @@ Todo el contenido teórico, ecuaciones y documentación se publica bajo la licen
 
 Contacto
 
-· Autor: Dr. (agregar nombre) – Investigador Principal, Laboratorio de Física Cuántica Temporal, Venezuela.
-· Email: tact@dominio.gob.ve
+· Autor: Dr. Roberth W Mendoza R – Investigador Principal, Laboratorio de Física Cuántica Temporal, Venezuela.
+· Email: reumend@gmail.com
 · Twitter: @TACT_Venezuela
 · Sitio web: https://tact.gob.ve
 
